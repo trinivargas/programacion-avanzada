@@ -1,0 +1,13 @@
+α = .5 # probabilidad de ganar en el tragamonedas
+ß = .3
+γ = 36 # numeros en la ruleta
+δ = 10# minutos para esperar conversar
+p = .5
+η = 0.1 # probabilidad de irse al hablar con Tini il Padrini
+κ = 0 # puntos porcentuales que aumenta la p de ganar con dealers coludidos
+ε = 0 # puntos porcentuales que disminuye la ansiedad al conversar
+χ = 0 # puntos porcentuales que aumenta la deshonestidad al conversar
+ν = 3 # rondas ruleta con trampa
+ψ = .3 # puntos porcentuales que aumenta la probabilidad de ganar
+ω = .05 # probabilidad del dealer de encontrar trampa
+Ω = .04 # probabilidad de que el dealer esté coludido

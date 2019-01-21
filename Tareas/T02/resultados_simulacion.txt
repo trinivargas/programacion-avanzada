@@ -1,0 +1,32 @@
+
+#### ESTADÍSTICAS SIMULACIÓN ####
+1.- Ganancias promedio por cliente: -8.253
+2.- Ganancias promedio por personalidad:
+    millonario: -26.5
+    ganador: -1.075
+    ludopata: -1.336
+    kibitzer: 0.0
+    dieciochero: -4.608
+3.- Tiempo promedio estadía por cliente: 22.87 min
+4.- Tiempo promedio estadía por personalidad:
+    millonario: 44.79 min
+    ganador: 23.17 min
+    ludopata: 21.36 min
+    kibitzer: 0.0 min
+    dieciochero: 9.83 min
+5.- Ganancias promedio por día: 6536.16
+6.- La ruleta generó más ganancias en comparación a los premios que entregó.
+7.- Porcentaje de personas que contó cartas: 0.0%
+8.- Razones de salida del casino:
+    decision: 60.0%
+    trampa: 0.0%
+    fin: 40.0%
+9.- Tiempo sin funcionar de cada instalación en minutos:
+    Restobar: 0
+    Tarot: 0
+    Baño: 0
+    Ruleta: 0
+    Tragamonedas: 0
+10.- Número de personas que visit́o cada juego en promedio por d́ıa:
+    Ruleta: 820.8
+    Tragamonedas: 1065.6
